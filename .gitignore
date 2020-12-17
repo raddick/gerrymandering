@@ -1,3 +1,6 @@
+# Data files some of which are > 10 MB
+districts_with_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
